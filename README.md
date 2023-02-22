@@ -12,3 +12,10 @@ I love ->
     ,Cat vidoes on youtube
 }
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=torvat&count_private=true&show_icons=true)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torvat&layout=compact&)]()
+
+
